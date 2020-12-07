@@ -37,6 +37,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
+## Open-source libraries used
+
+- [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+- SwipeRefreshLayout
+- Parse SDK
 
 ---
 
